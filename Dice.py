@@ -1,6 +1,6 @@
 from tkinter import*
 import random as r
-from PIL import ImageTk,Image
+print(object)
 def random():
     ran = r.randrange(1,7)
     return(ran)
